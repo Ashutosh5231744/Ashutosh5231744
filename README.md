@@ -1,5 +1,5 @@
 # 🙋‍♂️ Hi, I’m Ashutosh Singh
-### 👨‍💻 MERN Stack Developer | Open Source Enthusiast | Lifelong Learner
+### 👨‍💻 MERN Stack Developer | Primary focus on Backend Development
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
