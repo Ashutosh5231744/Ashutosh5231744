@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Voting App** & **3D Portfolio Website**
-- 🌱 I’m learning **MongoDB, Appwrite, Cloudinary, React Three Fiber**
-- 💬 Ask me about **MERN Stack, API Development, React Projects**
+- 🔭 I’m currently working on **DEVTINDER PROJECT** & **CAR RENTAL WEBSITE**
+- 🌱 I’m learning ** Node.js, Express.js,MongoDB, Appwrite, Cloudinary, React Three Fiber**
+- 💬 Ask me about **MERN Stack, API Development, Backend Projects**
 - 📫 How to reach me: **ashutosh91619@gmail.com**
-- ⚡ Fun fact: *I can debug faster than I cook Maggi!*
+
 
 ---
 
