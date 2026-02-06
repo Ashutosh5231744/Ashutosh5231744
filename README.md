@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on **DEVTINDER PROJECT** & **CAR RENTAL WEBSITE**
 - 🌱 I’m learning ** Node.js, Express.js,MongoDB, Appwrite, Cloudinary, React Three Fiber**
 - 💬 Ask me about **MERN Stack, API Development, Backend Projects**
-- 📫 How to reach me: **ashutosh91619@gmail.com**
+- 📫 How to reach me on gmail: **ashutosh91619@gmail.com**
+- 📫 How to reach me on linkdin:**https://www.linkedin.com/in/ashutosh-singh%F0%9F%87%AE%F0%9F%87%B3-7070a0246/**
 
 
 ---
